@@ -1,10 +1,10 @@
-# ✅ isType
+# ✅ whatType
 Python package to check the type of a variable or object.  
 
 ## 🚀 Usage
 
 ```python
-from isType import *
+from whatType import *
 
 # Check for 'function' type
 def test():
@@ -52,12 +52,12 @@ isClass(Test)
 Run the following to install:  
 
 ```bash
-$ pip install is-type
+$ pip install whatType
 ```
 
 ## 👨‍💻 Developing isType
 
-To install isType, along with the tools you will need to develop and run tests, run the following in your virtualenv:  
+To install whatType, along with the tools you will need to develop and run tests, run the following in your virtualenv:  
 
 ```bash
 $ pip install -e .[dev]
