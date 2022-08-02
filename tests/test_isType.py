@@ -1,4 +1,4 @@
-from isType import *
+from whatType import *
 
 def test_isFunction():
     def test():
