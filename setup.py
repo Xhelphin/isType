@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name="isType",
+    name="is-type",
     version="0.0.1",
     description="Python package to check the type of a variable or object.",
     py_modules=["isType"],

@@ -52,7 +52,7 @@ isClass(Test)
 Run the following to install:  
 
 ```bash
-$ pip install isType
+$ pip install is-type
 ```
 
 ## 👨‍💻 Developing isType
