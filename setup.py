@@ -4,10 +4,10 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name="is-type",
+    name="whatType",
     version="0.0.1",
     description="Python package to check the type of a variable or object.",
-    py_modules=["isType"],
+    py_modules=["whatType"],
     package_dir={'': 'src'},
     classifiers=[
         "Programming Language :: Python :: 3",
@@ -29,7 +29,7 @@ setup(
             "twine>=3.8.0",
         ],
     },
-    url="https://github.com/xhelphin/isType",
+    url="https://github.com/xhelphin/whatType",
     author="Jack Greenacre",
     author_email="jaxk.programmer@gmail.com",
 )

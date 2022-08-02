@@ -1,11 +1,9 @@
 """
 isType
-https://github.com/xhelphin/isType
+https://github.com/xhelphin/whatType
 
 Python package to check the type of a variable or object.
 """
-
-from xml.etree.ElementTree import QName
 
 
 def isFunction(inp):
